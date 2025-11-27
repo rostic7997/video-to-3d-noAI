@@ -322,7 +322,6 @@ Contributions are welcome! Please read CONTRIBUTING.md for details on our code o
 
 - Issues: GitHub Issues
 - Discussions: GitHub Discussions
-- Email: support@photogeometry.dev
 
 ## 🙏 Acknowledgments
 
@@ -335,3 +334,4 @@ Built on top of:
 ---
 
 **Made with ❤️ for 3D reconstruction enthusiasts**
+
